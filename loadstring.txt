@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vorrtec99/vortexmm2/refs/heads/main/mm2autofarm.lua"))()
